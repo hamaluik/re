@@ -1,0 +1,8 @@
+[package]
+name = "re"
+version = "0.1.0"
+authors = ["Kenton Hamaluik <kenton@rehabtronics.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.5"
